@@ -1,0 +1,392 @@
+exports[`test renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "position": "relative",
+      },
+      Object {
+        "height": 1334,
+        "width": 750,
+      },
+    ]
+  }>
+  <ScrollView
+    automaticallyAdjustContentInsets={false}
+    autoplay={false}
+    autoplayDirection={true}
+    autoplayTimeout={2.5}
+    bounces={false}
+    contentContainerStyle={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+        },
+        undefined,
+      ]
+    }
+    contentOffset={
+      Object {
+        "x": 750,
+      }
+    }
+    horizontal={true}
+    index={0}
+    loadMinimal={false}
+    loadMinimalSize={1}
+    loop={true}
+    onMomentumScrollEnd={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    pagingEnabled={true}
+    removeClippedSubviews={true}
+    scrollsToTop={false}
+    showsButtons={true}
+    showsHorizontalScrollIndicator={false}
+    showsPagination={true}
+    showsVerticalScrollIndicator={false}>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          Object {
+            "backgroundColor": "transparent",
+          },
+        ]
+      }>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#92BBD9",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }>
+          And simple
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          Object {
+            "backgroundColor": "transparent",
+          },
+        ]
+      }>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#9DD6EB",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }>
+          Hello Swiper
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          Object {
+            "backgroundColor": "transparent",
+          },
+        ]
+      }>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#97CAE5",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }>
+          Beautiful
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          Object {
+            "backgroundColor": "transparent",
+          },
+        ]
+      }>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#92BBD9",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }>
+          And simple
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          Object {
+            "backgroundColor": "transparent",
+          },
+        ]
+      }>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#9DD6EB",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }>
+          Hello Swiper
+        </Text>
+      </View>
+    </View>
+  </ScrollView>
+  <View
+    pointerEvents="none"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "bottom": 25,
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+        },
+        undefined,
+      ]
+    }>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#007aff",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      } />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      } />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      } />
+  </View>
+  <View
+    pointerEvents="box-none"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "left": 0,
+          "paddingHorizontal": 10,
+          "paddingVertical": 10,
+          "position": "absolute",
+          "top": 0,
+        },
+        Object {
+          "height": 1334,
+          "width": 750,
+        },
+        undefined,
+      ]
+    }>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+      testID={undefined}>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#007aff",
+              "fontFamily": "Arial",
+              "fontSize": 50,
+            }
+          }>
+          ‹
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+      testID={undefined}>
+      <View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#007aff",
+              "fontFamily": "Arial",
+              "fontSize": 50,
+            }
+          }>
+          ›
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
